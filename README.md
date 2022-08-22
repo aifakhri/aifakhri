@@ -11,8 +11,6 @@ I am also love to write about behavioural science or econmics at my own journal.
 - [Keywords-driven Test Framework with PyTest for Automated API Testing](https://medium.com/@zeitdeuter/keywords-driven-test-framework-with-pytest-for-automated-api-testing-b8344e9df523)
 - [Network Automation with Netmiko in a Virtual Data Center Network](https://medium.com/@zeitdeuter/network-automation-with-netmiko-in-a-virtual-data-center-network-9888dc270d8)
 - [Page Object Models Implementation with Pytest](https://medium.com/@zeitdeuter/page-object-models-implementation-with-pytest-b9673744b8c0)
-## Github Stats
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aifakhri)
 ## 📫 How to reach me
 Feel Free to contact me via:
 - Email: fakhri.azhar@proton.me or fakhri.azzhar@gmail.com
