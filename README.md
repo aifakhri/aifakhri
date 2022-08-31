@@ -1,5 +1,5 @@
 # Hi, There
-👋 My Name is Fakhri Azhar, I am python enthusiast. 
+👋 My Name is Fakhri Azhar, I am a python enthusiast. 
 ## About me
 - Professionally, I've been working as Network Engineer.
 - I have been developing Network Automation Framework for testing and Network Ops automation.
