@@ -2,7 +2,7 @@
 👋 My Name is Fakhri Azhar, I am a python enthusiast. 
 ## About me
 - Professionally, I've been working as Network Engineer.
-- Currently I am looking into switching roles from Network Engineer to Data Analsyst or Data Science
+- Currently I am looking into switching roles from Network Engineer to Data Analyst or Data Science
 - I've been falling in love with Python and I've been exploring multiple usage for Python from automation to data science.
 - I have been developing passion for Data Analytics and Data Science
 - I also love to exlore Network Automation Framework for testing and Network Ops automation.
