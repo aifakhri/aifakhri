@@ -6,7 +6,7 @@
 - I've been falling in love with Python and I've been exploring multiple usage for Python from automation to data science.
 - I have been developing passion for Data Analytics and Data Science and Data Engineer
 ## Blog and Writing
-Recently I've published my writing in Medium. So far my publications are about Data Analysis, Data Visualization, QA Automation and Network Automation for Network operation. Here is some example:
+Recently I've published my writing in Medium. So far my publications are about Data Science, Data Analysis, Data Visualization, QA Automation and Network Automation for Network operation. Here is some example:
 ### For Data Science
 - [Building Machine Learning Service for Bike Sharing Prediction](https://github.com/aifakhri/bike-sharing-prediction)
 - [Using Machine Learning on Bank Marketing Campaign](https://github.com/aifakhri/ml-model-bank-marketing)
