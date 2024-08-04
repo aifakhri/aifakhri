@@ -8,6 +8,7 @@
 ## Blog and Writing
 Recently I've published my writing in Medium. So far my publications are about Data Science, Data Analysis, Data Visualization, QA Automation and Network Automation for Network operation. Here is some example:
 ### For Data Science
+- [Random Forest from Scratch for Predicting Customer Churn](https://github.com/aifakhri/customer-churn-model)
 - [Building Machine Learning Service for Bike Sharing Prediction](https://github.com/aifakhri/bike-sharing-prediction)
 - [Using Machine Learning on Bank Marketing Campaign](https://github.com/aifakhri/ml-model-bank-marketing)
 ### For Data Analysis
